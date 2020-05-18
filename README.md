@@ -1,4 +1,4 @@
 # Forecaster
- A collection of functions intended for Recurrent Neural Network multi-step, time-series forecasting.
- 
- Example runfile on its way
+ Class devepoped during the investigation of Recurrent Neural Network multi-step, time-series forecasting of noisly time-series. 
+
+The provided Google Colab notebook walks through and example. 
